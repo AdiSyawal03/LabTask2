@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LOIS AUTOPARTS.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LOIS AUTOPARTS.exe
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LOIS AUTOPARTS.pdb
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LOIS AUTOPARTS.xml
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.vbprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.frmSplash.resources
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LOIS AUTOPARTS.exe
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LOIS AUTOPARTS.xml
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LOIS AUTOPARTS.pdb
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.AboutUs.resources
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.Form2.resources
+c:\users\dell\documents\visual studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.Form3.resources
